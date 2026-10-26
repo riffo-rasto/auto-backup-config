@@ -1,0 +1,5 @@
+data/
+cek.py
+test-*.py
+/data/deices.csv
+.env
